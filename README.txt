@@ -1,6 +1,6 @@
-WEBFONTS DRUPAL XML WITHOUT EDITOR
+WEBFONTS DRUPAL XML WITH EDITOR
 
-You can use web fonts from webfonts.fonts.com in your WordPress web sites, managing the web fonts and selectors directly in your WordPress web sites.
+You can use web fonts from webfonts.fonts.com in your Drupal web sites, managing the web fonts and selectors directly in your Drupal web sites.
 
 Webfonts.fonts.com offers over 8,000 Web fonts from Monotype®, Linotype®, ITC® and others. The exclusive home to Helvetica®, Frutiger®, Univers® and other celebrated fonts. It support for over 40 languages and provides Latin, Cyrillic, Greek, Simplified and Traditional Chinese, Japanese, Korean, Thai, Arabic, Hebrew, and Devanagari fonts
 
